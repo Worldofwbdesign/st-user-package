@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"BufferScroll",
+		"Color Highlighter",
+		"CSS To SASS And Stylus Converter",
+		"Dracula Color Scheme",
+		"Emmet",
+		"Gist",
+		"Glue",
+		"Goto-CSS-Declaration",
+		"Gulp",
+		"Jade",
+		"JSX",
+		"Monokai - Spacegray",
+		"Monokai Blueberry Color Scheme",
+		"Monokai Extended",
+		"One Dark Color Scheme",
+		"One Dark Material - Theme",
+		"Package Control",
+		"Sass",
+		"Solarized Color Scheme",
+		"Sublime Tutor",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Terminal",
+		"tern_for_sublime",
+		"Theme - Asphalt",
+		"Theme - Freesia",
+		"Theme - Glacier",
+		"Theme - Moka",
+		"Theme - Piatto",
+		"Theme - Spacegray",
+		"W3CValidators",
+		"WordPress",
+		"WordPress Developer Resources"
+	]
+}

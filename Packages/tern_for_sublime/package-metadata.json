@@ -1,0 +1,1 @@
+{"platforms": ["*"], "sublime_text": "*", "dependencies": [], "version": "2017.05.27.23.20.43", "description": "Sublime Text package adding Tern support", "url": "https://github.com/ternjs/tern_for_sublime"}

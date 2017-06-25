@@ -1,0 +1,1820 @@
+{
+	"folder_history":
+	[
+		"/D/_work/react/react-project",
+		"/D/_work/webpack-project",
+		"/D/_work/javascript/es6/app",
+		"/D/_work/javascript/js_patterns/app",
+		"/D/_work/peterbok",
+		"/D/_work/peterbork",
+		"/C/xampp/htdocs",
+		"/D/_work/_luxor/app/mobile",
+		"/D/_work/angular.js/app",
+		"/C/xampp/htdocs/wp-content/themes/customtheme",
+		"/C/xampp/htdocs/ovk/_optimized_gulp_sass"
+	],
+	"last_version": 3126,
+	"last_window_id": 44,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 648.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"par",
+						"parseFloat\tfn "
+					],
+					[
+						"lab",
+						"label"
+					],
+					[
+						"ca",
+						"cart-progress.sass"
+					],
+					[
+						"back",
+						"backgroundColor"
+					],
+					[
+						"pa",
+						"pay-systems"
+					],
+					[
+						"trans",
+						"transform"
+					],
+					[
+						"bra",
+						"border-radius"
+					],
+					[
+						"border",
+						"border-collapse"
+					],
+					[
+						"l",
+						"logo.png\tw:208 h:208"
+					],
+					[
+						"dow",
+						"download-casino.html"
+					],
+					[
+						"al",
+						"align-items"
+					],
+					[
+						"n",
+						"nowrap"
+					],
+					[
+						"ali",
+						"align-items"
+					],
+					[
+						"flex",
+						"flex-direction"
+					],
+					[
+						"background",
+						"background-repeat"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"jus",
+						"justify-content"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"out",
+						"outline"
+					],
+					[
+						"font",
+						"font-style"
+					],
+					[
+						"fade",
+						"fadeOut"
+					],
+					[
+						"th",
+						"th\tTag"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"g",
+						"gif.gif\tw:224 h:101"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"hei",
+						"height"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"bore",
+						"border"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"margin-",
+						"margin-left"
+					],
+					[
+						"vis",
+						"visibility"
+					],
+					[
+						"bord",
+						"border"
+					],
+					[
+						"pr",
+						"progres-bg.png\tw:14 h:13"
+					],
+					[
+						"ini",
+						"inline-block"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"fons",
+						"font-size"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"im",
+						"img/"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"sl",
+						"slider.png\tw:22 h:15"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"d",
+						"dost_5.png\tw:55 h:53"
+					],
+					[
+						"le",
+						"left"
+					],
+					[
+						"rig",
+						"right"
+					],
+					[
+						"boe",
+						"border-radius"
+					],
+					[
+						"p",
+						"pointer"
+					],
+					[
+						"font-",
+						"font-weight"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"add",
+						"addClass"
+					],
+					[
+						"ar",
+						"article\tTag"
+					],
+					[
+						"tx",
+						"text-transform"
+					],
+					[
+						"bar",
+						"background-color"
+					],
+					[
+						"ri",
+						"right-pap_1.png\tw:450 h:980"
+					],
+					[
+						"jp",
+						"Без-имени-8.jpg\tw:450 h:980"
+					],
+					[
+						"bg",
+						"bg-center.png\tw:1920 h:980"
+					],
+					[
+						"Бе",
+						"Без-имени-2.jpg\tw:450 h:1275"
+					],
+					[
+						"o",
+						"options"
+					],
+					[
+						"si",
+						"single-lottery(completed).html"
+					],
+					[
+						"s",
+						"style/"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"no",
+						"no-repeat"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"u",
+						"up-panel.png\tw:1920 h:56"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"dis",
+						"display"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 94.0,
+				"last_filter": "lint this view",
+				"selected_items":
+				[
+					[
+						"lint this view",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"sublimeL",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 446.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/_work/webpack-project/index.html",
+				"/D/_work/webpack-project/js/entry/home.js",
+				"/D/_work/webpack-project/webpack.config.js",
+				"/D/_work/react/video/03 Hello React/quizzes/001 React Basics Quiz.html",
+				"/D/_work/webpack-project/js/home.js",
+				"/D/_work/webpack-project/js/home.js.map",
+				"/D/_work/webpack-project/npm-debug.log",
+				"/D/_work/_luxor/webpack.config.js",
+				"/D/_work/webpack-project/package.json",
+				"/D/_work/webpack-project/.eslintrc",
+				"/D/_work/webpack-project/index.js",
+				"/D/_work/_luxor/gulpfile.js",
+				"/D/_work/javascript/es6/app/index.html",
+				"/D/_work/javascript/es6/app/js/entry.js",
+				"/D/_work/javascript/es6/webpack.config.js",
+				"/D/_work/javascript/es6/app/js/entry/entry.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/mainJs.js",
+				"/D/_work/_vlk/webpack.config.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/MainStyle.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/responsive.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/view 2.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/style2.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/style.css",
+				"/D/_work/javascript/js_patterns/app/js/common.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/view.php",
+				"/D/_work/peterbok/app/css/critical.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/media.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/styles.css",
+				"/D/_work/javascript/js5examples/js5examples/17/Keymap.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/index.php",
+				"/D/_work/peterbok/app/css/critical2.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/critical.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/main.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/fonts.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/header.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-3/wp-config.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-3/media.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-3/media 2.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-3/styles.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-3/index.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-3/index.html",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/functions.php",
+				"/D/_work/peterbok/sass/main.sass",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/header.php",
+				"/D/_work/peterbok/sass/header.sass",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/common.js",
+				"/D/_work/peterbok/gulpfile.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/main.js",
+				"/D/_work/start_html-master/_optimized_gulp_sass/gulpfile.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/footer.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/slider.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/main 2.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/index 2.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/frontend_scripts.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/recipe-option.php",
+				"/C/xampp/htdocs/wp-content/themes/customtheme/js/mainJs.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/taxonomy-recipe-category.php",
+				"/D/_work/peterbok/app/js/common.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/page.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/page-galleryslideshow.php",
+				"/D/_work/ferma/page-sitemap.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/media 2.css",
+				"/D/_work/peterbok/sass/_media.sass",
+				"/D/_work/ferma/page-katering.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/page-katering.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/page-sitemap.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/config.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/._config.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/pagination.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/content-search.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/content.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/content-page.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/content-none.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/single.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/search.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/searchform.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/404.php",
+				"/D/_work/peterbok/sass/_icon.sass",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/archive.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/index.html",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/mainJs 2.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/newIndex.php",
+				"/D/_work/peterbok/wordpress/template-parts/content.php",
+				"/D/_work/peterbok/wordpress/template-parts/pagination.php",
+				"/D/_work/peterbok/wordpress/template-parts/content-none.php",
+				"/D/_work/peterbok/wordpress/index.php",
+				"/D/_work/_sites/itwascool/wp-content/themes/itwascool/home.php",
+				"/D/_work/_sites/itwascool/wp-content/themes/itwascool/functions.php",
+				"/D/_work/_sites/itwascool(woocommerece, advanced fields)/wp-content/themes/itwascool/functions.php",
+				"/D/_work/peterbok/app/index.html",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/options 4.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/view 6.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/view 4.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/view 5.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/view 3.php",
+				"/D/_work/rubarb/repo/realtrade/real_trade/wp-content/themes/customtheme/framework-customizations/extensions/shortcodes/shortcodes/video-presentation/options.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/options 3.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/options 2.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/static.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/options.php",
+				"/D/_work/_sites/itwascool(woocommerece, advanced fields)/wp-content/themes/itwascool/index.php",
+				"/D/_work/rubarb/repo/realtrade/real_trade/wp-content/themes/customtheme/single-news.php",
+				"/D/_work/rubarb/repo/realtrade/real_trade/wp-content/themes/customtheme/single.php",
+				"/D/_work/_sites/itwascool(woocommerece, advanced fields)/wp-content/themes/itwascool/single.php",
+				"/D/_work/peterbok/app/404.html",
+				"/D/_work/peterbok/app/single.html",
+				"/D/_work/rubarb/repo/realtrade/real_trade/wp-content/themes/customtheme/category.php",
+				"/D/_work/peterbok/wordpress/category.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/jquery.slider.min.js",
+				"/D/_work/peterbok/wordpress/single.php",
+				"/D/_work/peterbok/sass/fonts.sass",
+				"/D/_work/peterbok/wordpress/searchform.php",
+				"/D/_work/_sites/itwascool(woocommerece, advanced fields)/wp-content/themes/itwascool/home.php",
+				"/D/_work/_sites/itwascool(woocommerece, advanced fields)/wp-content/themes/itwascool/page.php",
+				"/D/_work/peterbok/wordpress/template-parts/content-page.php",
+				"/D/_work/peterbok/wordpress/template-parts/content-search.php",
+				"/D/_work/rubarb/repo/realtrade/real_trade/wp-content/themes/real-trade/template-parts/content.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/search 2.php",
+				"/D/_work/rubarb/repo/realtrade/real_trade/wp-content/themes/real-trade/template-parts/content-none.php",
+				"/D/_work/rubarb/repo/realtrade/real_trade/wp-content/themes/real-trade/template-parts/content-page.php",
+				"/D/_work/_vlk/gulpfile.js",
+				"/D/_work/peterbok/app/css/fonts.css",
+				"/D/_work/rubarb/repo/realtrade/real_trade/wp-content/themes/real-trade/header.php",
+				"/D/_work/peterbok/sass/_placeholders.sass",
+				"/D/_work/peterbok/app/js/libs.js",
+				"/D/_work/peterbok/sass/_vars.sass",
+				"/D/_work/peterbok/app/libs/masonry/masonry.pkgd.min.js",
+				"/D/_work/peterbok/package.json"
+			],
+			"find":
+			{
+				"height": 59.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+					"<current file>",
+					"ic ic-",
+					"<current file>",
+					"D:\\banners\\05_12_2016_14_30_19_banners",
+					"<current file>",
+					"<current file>,C:\\Webserver\\OpenServer\\domains\\jockerinsider.dev",
+					"<current file>",
+					"<current file>,D:\\slotobot\\dist\\sass",
+					"<current file>",
+					"",
+					"C:\\Webserver\\OpenServer\\domains\\gaminator.local"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ul.build-stuff",
+					"brand-list-block",
+					".brand-list-block.full:after",
+					"material",
+					"section-our-commands",
+					"хочу",
+					"popup-resume",
+					"popup-banner",
+					"club-system-block-info-btn-wrap",
+					"popup-banner",
+					".box-tranir .bx-wrapper .bx-prev",
+					".box-tranir",
+					".box-tranir .bx-wrapper",
+					".box-tranir .bx-wrapper .bx-prev",
+					"RESUME-POPUP",
+					"прикрепить фотографию",
+					".block_slider-form-h2",
+					"420",
+					".section-slider-block",
+					".footer-social",
+					"footer-social",
+					".footer-polit",
+					"footer",
+					"_footer",
+					"brand",
+					"css",
+					"brand_",
+					"favicon",
+					"brand_",
+					"text-show-js",
+					".bx-prev",
+					".slick-next",
+					"-prev",
+					"prev",
+					"bx-prev",
+					".js",
+					"js",
+					".css",
+					"slick",
+					"owl",
+					".reviews .review-content",
+					".section-collcetion",
+					"white-popup",
+					"magnific",
+					"brand",
+					".club-system-text-box-title",
+					".club-system-text-box-title br",
+					"magnific",
+					"enable_scroll",
+					".sow-slider-base ul.sow-slider-images",
+					"slider",
+					"fullstory-content",
+					"preloader",
+					"preloa",
+					"disable_scroll",
+					"enable_scroll",
+					"acord-lable-wrap",
+					"map",
+					"ьфз",
+					"gallery_filterable",
+					"portfolio-item",
+					"all portfolio-item item alpha bar",
+					"portfolio-item",
+					"acord-lable-wrap",
+					".club-system-center-block",
+					"disable_scroll",
+					"magnifi",
+					"disable_scroll()",
+					".main-banner .btn",
+					"apps-buttons",
+					"app-buttons",
+					"_club-system",
+					"групповые",
+					"накапливайте",
+					"накапливайте баллы",
+					"накапливайтебаллы",
+					"img/google-programm.png",
+					".club-system-center-block p",
+					"closed",
+					".club-system-block-info.c-right .club-system-block-info-program",
+					".club-system-block-info-program",
+					"club-system-block-info-program",
+					".club-system-block-info-box-wrap",
+					".club-system-block-info-box",
+					"1024",
+					".club-system-right-block-bg",
+					".mobile-menu-toggle",
+					"#preloader",
+					"window",
+					"#preloader",
+					"btn",
+					"enu-bottom-btn",
+					".mobile-menu-wrap",
+					".mobile-menu-toggle",
+					".mobile-menu-wrap, .mobile-menu-toggle",
+					"mobile-menu-wrap",
+					".wrapper",
+					"z-index",
+					".mobile-menu-wrap",
+					"menu-bottom-btn",
+					".mobile-menu-box",
+					"transition-delay",
+					"transition",
+					".header",
+					"mobile-menu-wrap",
+					"showing",
+					"mobile-menu-wrap",
+					"vk-share",
+					"998",
+					".nav ul li a",
+					".blog-content p",
+					"heading",
+					"types-training-view",
+					".btn.coolleng-btn",
+					"coolleng",
+					"colle",
+					"colleng",
+					"команды",
+					".box-tranir",
+					".section-our-commands",
+					"text-show",
+					"tranir-text-js",
+					".textwidget",
+					".textwidget p",
+					"cl-itext",
+					"search",
+					"fa",
+					"fa fa-"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"ic ic-",
+					"<?php echo get_template_directory_uri();?>/img/",
+					"../fonts/icon/font/",
+					".table.slava",
+					"trip",
+					"",
+					"руб.",
+					"",
+					"868686",
+					"2e2e2e",
+					"eb9e33",
+					"3f3f3f",
+					"5e5e5e",
+					"1e1e1e",
+					"#1e1e1e",
+					"#9e9e9e",
+					"#2f2f2f",
+					"$grey-color",
+					"games : ",
+					"https://profitco.com",
+					"+e.A.demo(href=\"game.html\")",
+					"A.btn_blue._play(href=\"\")",
+					"A.btn_orange._play(href=\"\")",
+					".A.",
+					"+e.TD.",
+					"btn",
+					"%valign-center",
+					"angle-toggle fa-angle-down",
+					"anfle-toggle fa-angle-down",
+					"fill:none",
+					"checkRuleSpa",
+					"gamers-table__tour",
+					"../banner",
+					"",
+					"..banner",
+					"RewriteRule ^",
+					"settype($tab_dmy[1], \"integer\");",
+					"\"",
+					"href",
+					"/\"",
+					"Участвовать",
+					"<a href=\"/mobile/tournaments-event\" class=\"ButGreenCss\"><p>Участвовать</p></a>",
+					"Toutnament",
+					"/assets/templates/slotobot/img",
+					"../../slotobot/img",
+					"../../slotobot/img/",
+					"bot-item",
+					"> div > div > div",
+					"fa-circle-thin",
+					"fa-check",
+					"../../slotobot",
+					"../slotobot/fonts",
+					"src=\"slotobot/img/",
+					"/slotobot/img/",
+					"../../slotobot/img/",
+					"javascript:void(0)",
+					"",
+					"fa-check-square-o",
+					"col-xs-40",
+					"/client/VolcanoConnect-1.7.1-Setup.exe\"",
+					"/client/VolcanoConnect-1.7.1-Setup.exe",
+					"landingDownloadAvtomat",
+					".navbar-games",
+					".games-sort-navbar",
+					"Отправлен<br/>",
+					"<br/>",
+					" ",
+					".games-sort-navbar",
+					"0,0,0,.14",
+					"0, 0, 0, 0.44",
+					"PFDinCondensedMedium",
+					"DINPro-Bold",
+					"h",
+					"h:panelGroup",
+					"255, 255, 255, 0.45",
+					"4b351f",
+					"#ROULETTE-games",
+					"#POPULAR-games",
+					"sloto-maniya.com",
+					"rgba(255,255,255,.12)",
+					"rgba(255,255,255,.20)",
+					"3px 3px 3px rgba(12,149,255,.35",
+					"3px 3px 3px rgba(12,149,255,.39",
+					"nav-pattern.png",
+					"big-block-search-halls",
+					"rgba(255,255,255,1)",
+					"img",
+					"line-d_white",
+					"{THEME}/images/icons/",
+					"{ \"mask\": \"+",
+					"utm_campaign=logo",
+					"{ \"mask\": \"",
+					"new_design",
+					"box-modal-slava",
+					"cat",
+					"Calibri",
+					"width: 22px",
+					"width: 20px; height: 20px;",
+					"0px 2px 0px 0px",
+					"style=\"margin: 0px 2px 0px 0px; padding: 0px"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 39.0
+			},
+			"input":
+			{
+				"height": 71.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 74.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"D:\\_luxor\\luxor.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 265.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1370.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"par",
+						"parseFloat\tfn "
+					],
+					[
+						"lab",
+						"label"
+					],
+					[
+						"ca",
+						"cart-progress.sass"
+					],
+					[
+						"back",
+						"backgroundColor"
+					],
+					[
+						"pa",
+						"pay-systems"
+					],
+					[
+						"trans",
+						"transform"
+					],
+					[
+						"bra",
+						"border-radius"
+					],
+					[
+						"border",
+						"border-collapse"
+					],
+					[
+						"l",
+						"logo.png\tw:208 h:208"
+					],
+					[
+						"dow",
+						"download-casino.html"
+					],
+					[
+						"al",
+						"align-items"
+					],
+					[
+						"n",
+						"nowrap"
+					],
+					[
+						"ali",
+						"align-items"
+					],
+					[
+						"flex",
+						"flex-direction"
+					],
+					[
+						"background",
+						"background-repeat"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"jus",
+						"justify-content"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"out",
+						"outline"
+					],
+					[
+						"font",
+						"font-style"
+					],
+					[
+						"fade",
+						"fadeOut"
+					],
+					[
+						"th",
+						"th\tTag"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"g",
+						"gif.gif\tw:224 h:101"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"hei",
+						"height"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"bore",
+						"border"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"margin-",
+						"margin-left"
+					],
+					[
+						"vis",
+						"visibility"
+					],
+					[
+						"bord",
+						"border"
+					],
+					[
+						"pr",
+						"progres-bg.png\tw:14 h:13"
+					],
+					[
+						"ini",
+						"inline-block"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"fons",
+						"font-size"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"im",
+						"img/"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"sl",
+						"slider.png\tw:22 h:15"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"d",
+						"dost_5.png\tw:55 h:53"
+					],
+					[
+						"le",
+						"left"
+					],
+					[
+						"rig",
+						"right"
+					],
+					[
+						"boe",
+						"border-radius"
+					],
+					[
+						"p",
+						"pointer"
+					],
+					[
+						"font-",
+						"font-weight"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"add",
+						"addClass"
+					],
+					[
+						"ar",
+						"article\tTag"
+					],
+					[
+						"tx",
+						"text-transform"
+					],
+					[
+						"bar",
+						"background-color"
+					],
+					[
+						"ri",
+						"right-pap_1.png\tw:450 h:980"
+					],
+					[
+						"jp",
+						"Без-имени-8.jpg\tw:450 h:980"
+					],
+					[
+						"bg",
+						"bg-center.png\tw:1920 h:980"
+					],
+					[
+						"Бе",
+						"Без-имени-2.jpg\tw:450 h:1275"
+					],
+					[
+						"o",
+						"options"
+					],
+					[
+						"si",
+						"single-lottery(completed).html"
+					],
+					[
+						"s",
+						"style/"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"no",
+						"no-repeat"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"u",
+						"up-panel.png\tw:1920 h:56"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"dis",
+						"display"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/_work/react/react_weather/app/app.jsx",
+					"settings":
+					{
+						"buffer_size": 681,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "ins",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"lint this view",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"sublimeL",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 446.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/_work/react/react-project",
+				"/D/_work/react/react-project/public",
+				"/D/_work/react/react-project/public/components",
+				"/D/_work/react/react-project/public/components/Greeter"
+			],
+			"file_history":
+			[
+				"/D/_work/react/react-auth/client/src/components/auth/signup.js",
+				"/D/install/cmder/config/user-aliases.cmd",
+				"/D/_work/react/react-timer/webpack.config.js",
+				"/D/_work/react/react_weather/app/components/Nav.jsx",
+				"/D/_work/react/react_weather/app/app.jsx",
+				"/D/_work/react/react_weather/app/components/Main.jsx",
+				"/D/_work/react/react_weather/app/components/Weather.jsx",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/MainStyle.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/style2.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/style 2.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/style.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/fonts.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/animate.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/form.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/modal.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/options.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/view.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/reponsive.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/config 3.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/config 4.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/config.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/config 2.php",
+				"/C/Users/ZavodZamutov/.bashrc",
+				"/D/_work/react/video/05 Routing  Our Weather App/attached_files/034 Making Our API Call/react-5-9-making-it/app/api/openWeatherMap.jsx",
+				"/D/_work/react/video/05 Routing  Our Weather App/037 Source Map Library Issue.html",
+				"/D/_work/react/react_start/package.json",
+				"/D/_work/react/react_start/webpack.config.js",
+				"/D/_work/react/react_start/public/index.html",
+				"/D/_work/react/react_start/app/app.jsx",
+				"/D/_work/react/video/04 A Better React Project/attached_files/021 Adding Babel  JSX Support/react-4-4-babel-jsx/webpack.config.js",
+				"/D/_work/react/react-project/public/components/greeter/greeter.js",
+				"/D/_work/react/react-project/public/index.html",
+				"/D/_work/react/react-project/public/app.jsx",
+				"/D/_work/react/react-project/webpack.config.js",
+				"/D/_work/react/react-project/node_modules/express/lib/express.js",
+				"/D/_work/react/react-project/public/app.js",
+				"/D/_work/react/react-project/package.json",
+				"/D/_work/react/react-project/server.js",
+				"/D/_work/react/video/03 Hello React/attached_files/007 Hello React/react-3-2-hello-react/public/index.html",
+				"/D/_work/webpack-project/index.html",
+				"/D/_work/webpack-project/js/entry/home.js",
+				"/D/_work/webpack-project/webpack.config.js",
+				"/D/_work/react/video/03 Hello React/quizzes/001 React Basics Quiz.html",
+				"/D/_work/webpack-project/js/home.js",
+				"/D/_work/webpack-project/js/home.js.map",
+				"/D/_work/webpack-project/npm-debug.log",
+				"/D/_work/_luxor/webpack.config.js",
+				"/D/_work/webpack-project/package.json",
+				"/D/_work/webpack-project/.eslintrc",
+				"/D/_work/webpack-project/index.js",
+				"/D/_work/_luxor/gulpfile.js",
+				"/D/_work/javascript/es6/app/index.html",
+				"/D/_work/javascript/es6/app/js/entry.js",
+				"/D/_work/javascript/es6/webpack.config.js",
+				"/D/_work/javascript/es6/app/js/entry/entry.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/mainJs.js",
+				"/D/_work/_vlk/webpack.config.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/responsive.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/view 2.php",
+				"/D/_work/javascript/js_patterns/app/js/common.js",
+				"/D/_work/peterbok/app/css/critical.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/media.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/styles.css",
+				"/D/_work/javascript/js5examples/js5examples/17/Keymap.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/index.php",
+				"/D/_work/peterbok/app/css/critical2.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/critical.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/main.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/header.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-3/wp-config.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-3/media.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-3/media 2.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-3/styles.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-3/index.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-3/index.html",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/functions.php",
+				"/D/_work/peterbok/sass/main.sass",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/header.php",
+				"/D/_work/peterbok/sass/header.sass",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/common.js",
+				"/D/_work/peterbok/gulpfile.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/main.js",
+				"/D/_work/start_html-master/_optimized_gulp_sass/gulpfile.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/footer.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/slider.css",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/main 2.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/index 2.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/frontend_scripts.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/recipe-option.php",
+				"/C/xampp/htdocs/wp-content/themes/customtheme/js/mainJs.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/taxonomy-recipe-category.php",
+				"/D/_work/peterbok/app/js/common.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/page.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/page-galleryslideshow.php",
+				"/D/_work/ferma/page-sitemap.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/media 2.css",
+				"/D/_work/peterbok/sass/_media.sass",
+				"/D/_work/ferma/page-katering.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/page-katering.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/page-sitemap.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/._config.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/pagination.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/content-search.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/content.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/content-page.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/content-none.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/single.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/search.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/searchform.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/404.php",
+				"/D/_work/peterbok/sass/_icon.sass",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/archive.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/index.html",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/mainJs 2.js",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/newIndex.php",
+				"/D/_work/peterbok/wordpress/template-parts/content.php",
+				"/D/_work/peterbok/wordpress/template-parts/pagination.php",
+				"/D/_work/peterbok/wordpress/template-parts/content-none.php",
+				"/D/_work/peterbok/wordpress/index.php",
+				"/D/_work/_sites/itwascool/wp-content/themes/itwascool/home.php",
+				"/D/_work/_sites/itwascool/wp-content/themes/itwascool/functions.php",
+				"/D/_work/_sites/itwascool(woocommerece, advanced fields)/wp-content/themes/itwascool/functions.php",
+				"/D/_work/peterbok/app/index.html",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/options 4.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/view 6.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/view 4.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/view 5.php",
+				"/C/Users/ZavodZamutov/AppData/Local/Temp/fz3temp-2/view 3.php"
+			],
+			"find":
+			{
+				"height": 59.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+					"<current file>",
+					"ic ic-",
+					"<current file>",
+					"D:\\banners\\05_12_2016_14_30_19_banners",
+					"<current file>",
+					"<current file>,C:\\Webserver\\OpenServer\\domains\\jockerinsider.dev",
+					"<current file>",
+					"<current file>,D:\\slotobot\\dist\\sass",
+					"<current file>",
+					"",
+					"C:\\Webserver\\OpenServer\\domains\\gaminator.local"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"resetъ",
+					"pristine",
+					"assort-item",
+					"function(mod)",
+					"ul.build-stuff",
+					"brand-list-block",
+					".brand-list-block.full:after",
+					"material",
+					"section-our-commands",
+					"хочу",
+					"popup-resume",
+					"popup-banner",
+					"club-system-block-info-btn-wrap",
+					"popup-banner",
+					".box-tranir .bx-wrapper .bx-prev",
+					".box-tranir",
+					".box-tranir .bx-wrapper",
+					".box-tranir .bx-wrapper .bx-prev",
+					"RESUME-POPUP",
+					"прикрепить фотографию",
+					".block_slider-form-h2",
+					"420",
+					".section-slider-block",
+					".footer-social",
+					"footer-social",
+					".footer-polit",
+					"footer",
+					"_footer",
+					"brand",
+					"css",
+					"brand_",
+					"favicon",
+					"brand_",
+					"text-show-js",
+					".bx-prev",
+					".slick-next",
+					"-prev",
+					"prev",
+					"bx-prev",
+					".js",
+					"js",
+					".css",
+					"slick",
+					"owl",
+					".reviews .review-content",
+					".section-collcetion",
+					"white-popup",
+					"magnific",
+					"brand",
+					".club-system-text-box-title",
+					".club-system-text-box-title br",
+					"magnific",
+					"enable_scroll",
+					".sow-slider-base ul.sow-slider-images",
+					"slider",
+					"fullstory-content",
+					"preloader",
+					"preloa",
+					"disable_scroll",
+					"enable_scroll",
+					"acord-lable-wrap",
+					"map",
+					"ьфз",
+					"gallery_filterable",
+					"portfolio-item",
+					"all portfolio-item item alpha bar",
+					"portfolio-item",
+					"acord-lable-wrap",
+					".club-system-center-block",
+					"disable_scroll",
+					"magnifi",
+					"disable_scroll()",
+					".main-banner .btn",
+					"apps-buttons",
+					"app-buttons",
+					"_club-system",
+					"групповые",
+					"накапливайте",
+					"накапливайте баллы",
+					"накапливайтебаллы",
+					"img/google-programm.png",
+					".club-system-center-block p",
+					"closed",
+					".club-system-block-info.c-right .club-system-block-info-program",
+					".club-system-block-info-program",
+					"club-system-block-info-program",
+					".club-system-block-info-box-wrap",
+					".club-system-block-info-box",
+					"1024",
+					".club-system-right-block-bg",
+					".mobile-menu-toggle",
+					"#preloader",
+					"window",
+					"#preloader",
+					"btn",
+					"enu-bottom-btn",
+					".mobile-menu-wrap",
+					".mobile-menu-toggle",
+					".mobile-menu-wrap, .mobile-menu-toggle",
+					"mobile-menu-wrap",
+					".wrapper",
+					"z-index",
+					".mobile-menu-wrap",
+					"menu-bottom-btn",
+					".mobile-menu-box",
+					"transition-delay",
+					"transition",
+					".header",
+					"mobile-menu-wrap",
+					"showing",
+					"mobile-menu-wrap",
+					"vk-share",
+					"998",
+					".nav ul li a",
+					".blog-content p",
+					"heading",
+					"types-training-view",
+					".btn.coolleng-btn",
+					"coolleng",
+					"colle",
+					"colleng",
+					"команды",
+					".box-tranir",
+					".section-our-commands",
+					"text-show",
+					"tranir-text-js",
+					".textwidget",
+					".textwidget p"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"ic ic-",
+					"<?php echo get_template_directory_uri();?>/img/",
+					"../fonts/icon/font/",
+					".table.slava",
+					"trip",
+					"",
+					"руб.",
+					"",
+					"868686",
+					"2e2e2e",
+					"eb9e33",
+					"3f3f3f",
+					"5e5e5e",
+					"1e1e1e",
+					"#1e1e1e",
+					"#9e9e9e",
+					"#2f2f2f",
+					"$grey-color",
+					"games : ",
+					"https://profitco.com",
+					"+e.A.demo(href=\"game.html\")",
+					"A.btn_blue._play(href=\"\")",
+					"A.btn_orange._play(href=\"\")",
+					".A.",
+					"+e.TD.",
+					"btn",
+					"%valign-center",
+					"angle-toggle fa-angle-down",
+					"anfle-toggle fa-angle-down",
+					"fill:none",
+					"checkRuleSpa",
+					"gamers-table__tour",
+					"../banner",
+					"",
+					"..banner",
+					"RewriteRule ^",
+					"settype($tab_dmy[1], \"integer\");",
+					"\"",
+					"href",
+					"/\"",
+					"Участвовать",
+					"<a href=\"/mobile/tournaments-event\" class=\"ButGreenCss\"><p>Участвовать</p></a>",
+					"Toutnament",
+					"/assets/templates/slotobot/img",
+					"../../slotobot/img",
+					"../../slotobot/img/",
+					"bot-item",
+					"> div > div > div",
+					"fa-circle-thin",
+					"fa-check",
+					"../../slotobot",
+					"../slotobot/fonts",
+					"src=\"slotobot/img/",
+					"/slotobot/img/",
+					"../../slotobot/img/",
+					"javascript:void(0)",
+					"",
+					"fa-check-square-o",
+					"col-xs-40",
+					"/client/VolcanoConnect-1.7.1-Setup.exe\"",
+					"/client/VolcanoConnect-1.7.1-Setup.exe",
+					"landingDownloadAvtomat",
+					".navbar-games",
+					".games-sort-navbar",
+					"Отправлен<br/>",
+					"<br/>",
+					" ",
+					".games-sort-navbar",
+					"0,0,0,.14",
+					"0, 0, 0, 0.44",
+					"PFDinCondensedMedium",
+					"DINPro-Bold",
+					"h",
+					"h:panelGroup",
+					"255, 255, 255, 0.45",
+					"4b351f",
+					"#ROULETTE-games",
+					"#POPULAR-games",
+					"sloto-maniya.com",
+					"rgba(255,255,255,.12)",
+					"rgba(255,255,255,.20)",
+					"3px 3px 3px rgba(12,149,255,.35",
+					"3px 3px 3px rgba(12,149,255,.39",
+					"nav-pattern.png",
+					"big-block-search-halls",
+					"rgba(255,255,255,1)",
+					"img",
+					"line-d_white",
+					"{THEME}/images/icons/",
+					"{ \"mask\": \"+",
+					"utm_campaign=logo",
+					"{ \"mask\": \"",
+					"new_design",
+					"box-modal-slava",
+					"cat",
+					"Calibri",
+					"width: 22px",
+					"width: 20px; height: 20px;",
+					"0px 2px 0px 0px",
+					"style=\"margin: 0px 2px 0px 0px; padding: 0px"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\_work\\react\\react-project"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/_work/react/react_weather/app/app.jsx",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 681,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										425,
+										425
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												678,
+												679
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												424,
+												425
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"bs_sintax": "jsx",
+									"buffer_scroll_name": "38cd0670",
+									"spell_check": false,
+									"syntax": "Packages/JSX/JSX.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 39.0
+			},
+			"input":
+			{
+				"height": 71.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,1037,493,42,1922",
+			"project": "",
+			"replace":
+			{
+				"height": 74.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"D:\\_luxor\\luxor.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 265.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 44,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/D/_work/_vlk/luxor.sublime-workspace",
+			"/D/_work/_luxor/luxor.sublime-workspace",
+			"/D/_work/sublime-projects/realtrade.sublime-workspace",
+			"/C/Users/ZavodZamutov/AppData/Roaming/Sublime Text 3/Packages/Sublime Tutor/tutorial/sublimetutor.sublime-workspace"
+		]
+	}
+}
